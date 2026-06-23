@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CadastroCarnes.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5eabbf66fbb9a58846bbfe711fd6d6807850dc0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e320a273dd3f6ec2dbeae43ec88bffb8987e6441")]
 [assembly: System.Reflection.AssemblyProductAttribute("CadastroCarnes.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CadastroCarnes.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,6 +6,7 @@ using CadastroCarnes.Service.Interfaces;
 using CadastroCarnes.Service.Services;
 using Microsoft.EntityFrameworkCore;
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 
@@ -23,6 +24,7 @@ builder.Services.AddScoped<ICompradorService, CompradorService>();
 builder.Services.AddScoped<ICarneService, CarneService>();
 builder.Services.AddScoped<ICidadeService, CidadeService>();
 builder.Services.AddScoped<IEstadoService, EstadoService>();
+builder.Services.AddHttpClient<IMoedaService, MoedaService>();
 
 
 // Swagger
