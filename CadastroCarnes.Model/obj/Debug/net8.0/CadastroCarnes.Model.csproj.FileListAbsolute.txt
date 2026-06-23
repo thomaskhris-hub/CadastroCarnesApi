@@ -9,3 +9,15 @@ C:\Users\Khris\CadastroCarnes\CadastroCarnes.Model\obj\Debug\net8.0\CadastroCarn
 C:\Users\Khris\CadastroCarnes\CadastroCarnes.Model\obj\Debug\net8.0\refint\CadastroCarnes.Model.dll
 C:\Users\Khris\CadastroCarnes\CadastroCarnes.Model\obj\Debug\net8.0\CadastroCarnes.Model.pdb
 C:\Users\Khris\CadastroCarnes\CadastroCarnes.Model\obj\Debug\net8.0\ref\CadastroCarnes.Model.dll
+C:\Users\Khris\Projetos\CadastroCarnes\CadastroCarnes.Model\bin\Debug\net8.0\CadastroCarnes.Model.deps.json
+C:\Users\Khris\Projetos\CadastroCarnes\CadastroCarnes.Model\bin\Debug\net8.0\CadastroCarnes.Model.dll
+C:\Users\Khris\Projetos\CadastroCarnes\CadastroCarnes.Model\bin\Debug\net8.0\CadastroCarnes.Model.pdb
+C:\Users\Khris\Projetos\CadastroCarnes\CadastroCarnes.Model\obj\Debug\net8.0\CadastroCarnes.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khris\Projetos\CadastroCarnes\CadastroCarnes.Model\obj\Debug\net8.0\CadastroCarnes.Model.AssemblyInfoInputs.cache
+C:\Users\Khris\Projetos\CadastroCarnes\CadastroCarnes.Model\obj\Debug\net8.0\CadastroCarnes.Model.AssemblyInfo.cs
+C:\Users\Khris\Projetos\CadastroCarnes\CadastroCarnes.Model\obj\Debug\net8.0\CadastroCarnes.Model.csproj.CoreCompileInputs.cache
+C:\Users\Khris\Projetos\CadastroCarnes\CadastroCarnes.Model\obj\Debug\net8.0\CadastroCarnes.Model.sourcelink.json
+C:\Users\Khris\Projetos\CadastroCarnes\CadastroCarnes.Model\obj\Debug\net8.0\CadastroCarnes.Model.dll
+C:\Users\Khris\Projetos\CadastroCarnes\CadastroCarnes.Model\obj\Debug\net8.0\refint\CadastroCarnes.Model.dll
+C:\Users\Khris\Projetos\CadastroCarnes\CadastroCarnes.Model\obj\Debug\net8.0\CadastroCarnes.Model.pdb
+C:\Users\Khris\Projetos\CadastroCarnes\CadastroCarnes.Model\obj\Debug\net8.0\ref\CadastroCarnes.Model.dll
