@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CadastroCarnes.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c78b407b0cf359865baca77faf078ab093b64d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5eabbf66fbb9a58846bbfe711fd6d6807850dc0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CadastroCarnes.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CadastroCarnes.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
